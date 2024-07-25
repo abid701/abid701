@@ -19,7 +19,7 @@ I'm new to programming and excited to learn and grow my skills.
 
 ## Contact Me
 
-- [Email](abid_erfan7@yahoo.com)
+- abid_erfan7@yahoo.com
 
 ## My Projects
 
