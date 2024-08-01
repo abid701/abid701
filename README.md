@@ -9,6 +9,8 @@ I'm new to programming and excited to learn and grow my skills.
 - 📖 Learning: Python, Java, JavaScript, HTML and CSS, PHP and MySQL
 - GitHub basics
 
+- 🔭 I’m currently working on - [AmoHotel.com-main](https://github.com/yourusername/project_name) - Brief description of the project
+
 ## Interests
 
 - 💻 Software Development
