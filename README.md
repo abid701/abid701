@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm new to programming and excited to learn and grow my skills.
+.
 
 ## Current Learning
 
