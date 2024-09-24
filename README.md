@@ -13,8 +13,9 @@
 ## Interests
 
 - 💻 Software Development
-- 🌐  Development
 - 🤖 Machine Learning
+- 🌐  Development
+
   
 
 ## Contact Me
