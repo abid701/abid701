@@ -8,7 +8,7 @@
 
 - 📖 Learning: Python, Java, JavaScript, HTML and CSS, PHP and MySQL
 
-- 🔭 I’m currently working on - [AmoHotel.com](https://github.com/abid701/AmoHotel.com) - It is a reception application for a hotel
+- 🔭 I’m currently working on - [AmoHotelApp](https://github.com/abid701/AmoHotel.com) - It is a reception application for a hotel
 
 ## Interests
 
