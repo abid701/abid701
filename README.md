@@ -6,7 +6,7 @@
 
 ## Current Learning
 
-- 📖 Learning: Python, Java, JavaScript, HTML and CSS, PHP and MySQL
+- 📖 Currently expanding my knowledge in programming concepts, with a plan to dive into Machine Learning soon.
 
 - 🔭 I’m currently working on - [AmoHotelApp](https://github.com/abid701/AmoHotel.com) - It is a reception application for an imaginary hotel
 
