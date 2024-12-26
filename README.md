@@ -6,9 +6,9 @@
 
 ## Current Learning
 
-- 📖 Currently expanding my knowledge in programming concepts, with a plan to dive into Machine Learning soon.
+- 📖 Currently expanding my knowledge in programming concepts, and just started learning about Machine Learning.
 
-- 🔭 I’m currently working on - [AmoHotelApp](https://github.com/abid701/AmoHotel.com) - It is a reception application for an imaginary hotel
+- 🔭 I’m currently working on building a robot.
 
 ## Interests
 
