@@ -1,8 +1,9 @@
 # Hi there, I'm Abid! 👋
 
 ## About Me
+Hi, my name is Abid Erfan. A while ago, I decided to learn more about computers. At first, I wasn't sure where to start, so I started learning about the Windows Command Prompt (cmd). I spent some time with it but realized it wasn't exciting to me—most of what I learned could also be done using graphical user interfaces (GUIs).
 
-.
+That’s when I turned to Google and searched something like, "What computer science students learn?" That search introduced me to programming. Before that, I didn’t even know programming is. I watched a few introductory videos and thought it was cool. Then I probably typed "programming for beginners" into YouTube and came across Mosh Hamedani's "Python Programming for Beginners 6 Hours Course." and just like that I started learning my first programming language.
 
 ## Current Learning
 
