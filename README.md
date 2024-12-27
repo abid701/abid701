@@ -9,7 +9,7 @@ That’s when I turned to Google and searched something like, "What computer sci
 
 - 📖 Currently expanding my knowledge in programming concepts, and just started learning about Machine Learning.
 
-- 🔭 I’m currently working on building a robot.
+- 🔭 I am currently working on building my first and fully autonomous robot. The robot will use camera vision for navigation and will have at least one robotic arm. My goal is for it to be capable of performing tasks such as inserting a power plug into a socket. In the meantime, I am also learning about robotics and machine learning, as I have no prior experience in these fields.
 
 ## Interests
 
