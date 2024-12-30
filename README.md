@@ -9,7 +9,10 @@ That’s when I turned to Google and searched something like, "What computer sci
 
 - 📖 Currently expanding my knowledge in programming concepts, and just started learning about Machine Learning.
 
-- 🔭 I am currently working on building my first and fully autonomous robot. The robot will use camera vision for navigation and will have at least one robotic arm. My goal is for it to be capable of performing tasks such as inserting a power plug into a socket. In the meantime, I am also learning about robotics and machine learning, as I have no prior experience in these fields.
+- 🔭 Working on building my first and fully autonomous robot. The robot will use camera vision for navigation and will have at least one robotic arm. My goal is for it to be capable of performing tasks such as inserting a power plug into a socket. In the meantime, I am also learning about robotics and machine learning, as I have no prior experience in these fields.
+
+- 🔭 Learning Neovim and Terminal-Based Development
+Working over SSH to code and test my robot effeciently, without needing to connect my Raspberry Pi to a monitor all the time, in the mean time I would learn linux terminal commands better and am trying to learn Neovim to use it as my code editor.
 
 ## Interests
 
@@ -21,7 +24,7 @@ That’s when I turned to Google and searched something like, "What computer sci
 
 ## Contact Me
 
-- abid_erfan7@yahoo.com
+- 📫 abid_erfan7@yahoo.com
 
 ##
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just want to discuss something and share ideas.
