@@ -7,7 +7,7 @@ That’s when I turned to Google and searched something like, "What computer sci
 
 ## Current Learning
 
-- 📖 Currently expanding my knowledge in programming concepts, and just started learning about Machine Learning.
+- 📖 Currently expanding my knowledge in programming concepts.
 
 - 🔭 Working on building my first and fully autonomous robot. The robot will use camera vision for navigation and will have at least one robotic arm. My goal is for it to be capable of performing tasks such as inserting a power plug into a socket. In the meantime, I am also learning about robotics and machine learning, as I have no prior experience in these fields.
 
@@ -18,7 +18,7 @@ Working over SSH to code and test my robot effeciently, without needing to conne
 
 - 💻 Software Development
 - 🤖 Machine Learning
-- 🌐  Development
+- 🌐 Development
 
   
 
