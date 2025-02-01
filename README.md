@@ -9,7 +9,7 @@ That’s when I turned to Google and searched something like, "What computer sci
 
 - 📖 Currently expanding my knowledge in programming concepts.
 
-- Building an app for an online shop [VirtuShop](https://github.com/abid701/VirtuShop)
+- Building a time tracking app.
 
 - 🔭 Working on building my first and fully autonomous robot. The robot will use camera vision for navigation and will have at least one robotic arm. My goal is for it to be capable of performing tasks such as inserting a power plug into a socket. In the meantime, I am also learning about robotics and machine learning, as I have no prior experience in these fields.
 
