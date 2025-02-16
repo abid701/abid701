@@ -18,9 +18,9 @@ Working over SSH to code and test my robot effeciently, without needing to conne
 
 ## Interests
 
-- 💻 Software Development
 - 🤖 Machine Learning
-- 🌐 Development
+- 💻 Software Development
+<!-- - 🌐 Development  -->
 
   
 
