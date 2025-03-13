@@ -7,7 +7,9 @@ That’s when I turned to Google and searched something like, "What computer sci
 
 ## Currently
 
-<!-- - 📖 Currently expanding my knowledge in programming concepts.  -->
+- 🔢 Strengthening my math skills.
+
+- 📖 Currently expanding my knowledge in programming concepts. 
 
 - Building a time tracking app.
 
